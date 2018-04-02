@@ -25,6 +25,10 @@
 [outbound_block_list]
 # 禁止访问列表
 
+# Add by Jason
+# 好好住
+(^|\.)nsrc\.haohaozhu\.com$
+
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
@@ -1520,7 +1524,6 @@
 (^|\.)upaiyun\.com$
 (^|\.)upyun\.com$
 (^|\.)uxengine\.net$
-(^|\.)v2ex\.com$
 (^|\.)vip\.com$
 (^|\.)wandoujia\.com$
 (^|\.)weibo\.com$
@@ -6974,6 +6977,9 @@
 ^.*\.uk$
 ^.*\.us$
 ^.*\.tw$
+
+# Add by Jason
+(^|\.)v2ex\.com$
 
 # MyList
 (^|\.)apkmirror\.com$
